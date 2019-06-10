@@ -1,0 +1,5 @@
+{
+    "require": {
+        "gadoma/walmart-api-php-client": "^1.0"
+    }
+}
